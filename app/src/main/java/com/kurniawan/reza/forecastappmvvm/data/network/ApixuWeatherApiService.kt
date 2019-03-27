@@ -1,7 +1,7 @@
-package com.kurniawan.reza.forecastappmvvm.data.response
+package com.kurniawan.reza.forecastappmvvm.data.network
 
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
-import com.kurniawan.reza.forecastappmvvm.data.CurrentWeatherResponse
+import com.kurniawan.reza.forecastappmvvm.data.network.response.CurrentWeatherResponse
 import kotlinx.coroutines.Deferred
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient

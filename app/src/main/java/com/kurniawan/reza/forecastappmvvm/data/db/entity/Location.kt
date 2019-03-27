@@ -1,4 +1,4 @@
-package com.kurniawan.reza.forecastappmvvm.data
+package com.kurniawan.reza.forecastappmvvm.data.db.entity
 
 import com.google.gson.annotations.SerializedName
 

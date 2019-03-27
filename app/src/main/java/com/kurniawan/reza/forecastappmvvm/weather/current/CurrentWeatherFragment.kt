@@ -7,7 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.kurniawan.reza.forecastappmvvm.R
-import com.kurniawan.reza.forecastappmvvm.data.response.ApixuWeatherApiService
+import com.kurniawan.reza.forecastappmvvm.data.network.ApixuWeatherApiService
 import kotlinx.android.synthetic.main.current_weather_fragment.*
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
